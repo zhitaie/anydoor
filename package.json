@@ -1,0 +1,19 @@
+{
+  "name": "anydoor",
+  "version": "1.0.0",
+  "description": "这是一个 nodeJS webserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhitaie/anydoor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhitaie/anydoor/issues"
+  },
+  "homepage": "https://github.com/zhitaie/anydoor#readme"
+}
