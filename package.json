@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zhitaie/anydoor/issues"
   },
-  "homepage": "https://github.com/zhitaie/anydoor#readme"
+  "homepage": "https://github.com/zhitaie/anydoor#readme",
+  "dependencies": {
+    "eslint": "^5.10.0"
+  }
 }
